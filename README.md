@@ -1,4 +1,4 @@
-# Spam-Ham Email Classification Project
+# Spam-Ham Email Classification
 This repository contains a machine learning project focused on classifying emails as either spam or ham (non-spam). The project utilizes the SpamAssassin dataset and implements three different machine learning models from scratch using only NumPy. Additionally, a customized data preprocessing script is provided to clean and preprocess the email data before feeding it into the models.
 
 ## Dataset
