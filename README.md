@@ -3,6 +3,7 @@ This repository contains a machine learning project focused on classifying email
 
 ## Dataset
 The dataset used in this project is obtained from SpamAssassin.
+https://spamassassin.apache.org/
 
 ## Machine Learning Models
 Three different machine learning models have been implemented from scratch using NumPy:
